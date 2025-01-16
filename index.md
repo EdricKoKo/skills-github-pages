@@ -1,4 +1,4 @@
-# Welcome to My Blog!
+# Welcome to Ko Ko Blog!
 
 Welcome to my little corner of the internet, where I share insights, stories, and tips on everything from tech to lifestyle. Feel free to explore, comment, and engage with the content!
 
